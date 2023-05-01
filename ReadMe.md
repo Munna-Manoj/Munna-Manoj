@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI Researcher currently working on HeadOverDisplay(HUD). My work mostly involves around computer vision and 3D geometry. <br>I am currently learning new Pytorch features, Advance Python with concurrency, and Project Management. 
+I am an AI Researcher currently working on HeadOverDisplay(HUD). My work mostly involves computer vision and 3D geometry. <br>I am currently learning new Pytorch features, Advance Python with concurrency, and Project Management. 
 
 
 ## 🌐 Socials:
